@@ -1,0 +1,8 @@
+.send-form {
+  display: flex;
+}
+
+.send-form input {
+  flex: 1;
+  border: none;
+}

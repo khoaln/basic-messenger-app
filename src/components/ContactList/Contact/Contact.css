@@ -1,0 +1,16 @@
+.contact {
+  display: flex;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.contact:hover, .contact.selected {
+  background-color: #dce0dd;
+}
+
+.contact-avatar img {
+  height: 68px;
+  width: 68px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
